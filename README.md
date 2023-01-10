@@ -7,7 +7,7 @@ Web Developer
 I have been a web developer for over 5 years working in the .NET and PHP space, and have worked alongside many technologies.
 
 * 🌍  I'm based in Oxford
-* 🖥️  See my portfolio at [GitHub](http://github.com/seanp97)
+* 🖥️  See my portfolio at [Website](http://seanp97.github.io/)
 * ✉️  You can contact me at [sean.pelser97@gmail.com](mailto:sean.pelser97@gmail.com)
 * 🧠  I'm learning .NET API
 * 🤝  I'm open to collaborating on Open Source
@@ -33,4 +33,4 @@ I have been a web developer for over 5 years working in the .NET and PHP space, 
 
 ### Socials
 
-<p align="left"> <a href="https://www.linkedin.com/in/sean-pelser-ba4bb8139" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/seanp97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sean-pelser-ba4bb8139" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>

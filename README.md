@@ -9,8 +9,8 @@ I am a passionate web developer that loves to learn new things and have been in 
 * 🌍  I'm based in Oxford
 * 🖥️  See my portfolio at [Portfolio](http://seanp97.github.io/)
 * ✉️  You can contact me at [sean.pelser97@gmail.com](mailto:sean.pelser97@gmail.com)
-* 🚀  I'm currently working on [Javascript Carousel Slider Library](http://github.com/seanp97/Javascript-Simple-Slider)
-* 🧠  I'm learning Node JS, React, Express JS
+* 🚀  I'm currently working on [Toast JS Library](http://github.com/seanp97/Toast-JS-Library)
+* 🧠  I'm learning .NET Web API & Azure
 * 🤝  I'm open to collaborating on open source projects
 * ⚡  I love to travel the world as much as I can in my spare time
 

@@ -1,14 +1,17 @@
+
 Hi 👋 My name is Sean Pelser
 ============================
 
 Developer
 ---------
 
-I have been a developer for over 6 years, primarily using .NET & PHP, alongside jQuery, React, Laravel, Angular etc...
+I have been a developer for over 7 years, primarily using .NET & PHP, alongside jQuery, React, Laravel, Angular etc...
 
-* 🌍  I'm based in Oxford
-* 🧠  I'm learning Azure
-* 🤝  I'm open to collaborating on Open Source Projects
+Take a look at my [portfolio](https://seanp97.github.io/Sean-Pelser-Portfolio)
+
+* 🌍  I'm based in Oxford
+* 🧠  I'm learning Azure
+* 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
 

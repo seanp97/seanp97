@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Cloud Engineer
 ------------------------------
 
-I've been a developer for nearly a decade specialising in .NET, PHP and AWS
+I've been a developer for nearly a decade specialising in .NET, PHP and AWS. Computer Science & Electronic Engineering Degree student 🚀
 
 * 🌍  I'm based in Oxford
 * 🖥️  See my portfolio at [My Portfolio](http://sean-pelser-portfolio-site.s3-website.eu-north-1.amazonaws.com/)
